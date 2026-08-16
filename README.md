@@ -22,7 +22,7 @@ My personal server infrastructure project. I use this environment to gain hands-
 * **Software Engineering:** Python, Java, Object-Oriented Programming (OOP), Git, Data Structures & Algorithms
 * **Data Engineering & Analytics:** SQL & Relational Databases (RDBMS), Data Analysis, Predictive Modeling Concepts
 * **Infrastructure & Operations:** Linux System Administration, Proxmox VE, Docker, Systems Troubleshooting, TCP/IP Networking
-* **Healthcare Domain Expertise:** Epic EHR Navigation, five9, Verint, HIPAA Compliance, Secure Data Handling, Workflow Optimization
+* **Healthcare Domain Expertise:** Epic EHR Navigation, Five9, Verint, HIPAA Compliance, Secure Data Handling, Workflow Optimization
 
 ## About Me
 
