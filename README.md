@@ -27,5 +27,5 @@ Because of my non-traditional path into the industry, I heavily prioritize soft 
 
 ## Contact
 
-* **LinkedIn:** linkedin.com/in/jonnyfritzinger
+* **LinkedIn:** [linkedin.com/in/jonnyfritzinger](https://www.linkedin.com/in/jonnyfritzinger)
 * **Email:** jonnyfritzinger@gmail.com
