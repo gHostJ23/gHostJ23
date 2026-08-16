@@ -26,7 +26,7 @@ My personal server infrastructure project. I use this environment to gain hands-
 
 ## About Me
 
-Because of my non-traditional path into the industry, I heavily prioritize soft skills, technical training, and cross-team collaboration. When I am not writing code, tinkering with hardware, or maintaining my home servers, I spend my downtime studying Japanese, playing the guitar, or in the gym.
+Because of my non-traditional path into the industry, I heavily prioritize soft skills, technical training, and cross-team collaboration, while humbly absorbing any insight and expertise I can from any and all colleagues and resources available. When I am not writing code, tinkering with hardware, or maintaining my home servers, I spend my downtime studying Japanese, playing the guitar, or in the gym.
 
 ## Contact
 
