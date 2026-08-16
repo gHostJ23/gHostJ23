@@ -11,6 +11,9 @@ I am eager to merge my technical foundation with these soft skills to build prac
 **[Healthcare Metrics ETL Pipeline](https://github.com/gHostJ23/healthcare_etl_pipeline)**
 A Python-based ETL pipeline designed to solve a real administrative workflow issue in healthcare operations. It programmatically aggregates telephony routing logs and EHR interactions into automated productivity reports. To strictly adhere to HIPAA compliance, the script utilizes relational mock datasets and operates entirely within a localized, offline environment.
 
+**[Real-Time NLP Compliance Dashboard](https://github.com/gHostJ23/nlp_compliance_architecture)**
+A Python-based proof of concept designed to automate verbal compliance tracking in secure healthcare environments. It utilizes offline natural language processing (NLP) and fuzzy string matching logic to visually verify when legally mandated disclaimers are spoken. To ensure strict adherence to enterprise data privacy policies and HIPAA regulations, the architectural blueprint is built to run entirely locally with zero cloud processing dependencies.
+
 **[Ghosthouse Homelab](https://github.com/gHostJ23/Ghosthouse)**
 My personal server infrastructure project. I use this environment to gain hands-on experience with systems administration, managing custom network routing, documenting professionally and consistently, and deploying isolated Docker containers within Proxmox VE. 
 
