@@ -1,6 +1,6 @@
 # Jonathan Fritzinger
 
-I have been building computers, setting up networks, and writing code for most of my life. I recently formalized this lifelong passion by completing my B.S. in Computer Science, bridging my deep technical interests with structured software engineering principles.
+I have been building computers, setting up networks, and writing scripts for most of my life. I recently formalized this lifelong passion by completing my B.S. in Computer Science, bridging my deep technical interests with structured software engineering principles.
 
 Alongside my technical education, my professional background in healthcare customer support has given me a unique perspective on the end-user experience. Working on the frontline of patient care management taught me how to untangle complex workflows, listen actively, and communicate clearly across different departments. 
 
