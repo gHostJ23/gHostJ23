@@ -29,7 +29,7 @@ Currently working to complete the Nand2Tetris project to solidify my understandi
 
 ## About Me
 
-Because of my non-traditional path into the industry, I heavily prioritize soft skills, technical training, and cross-team collaboration, while humbly absorbing any insight and expertise I can from any and all colleagues and resources available. When I am not writing code, tinkering with hardware, or maintaining my home servers, I spend my downtime studying Japanese, playing the guitar, or in the gym.
+My background outside of traditional software gave me strong communication skills and a practical approach to building tools. I care about writing clean code, working closely with others, and picking up best practices from senior engineers. Outside of programming, hardware projects, and managing my servers, I spend my downtime studying Japanese, playing guitar, and staying active and lifting heavy.
 
 ## Contact
 
