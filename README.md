@@ -17,6 +17,9 @@ A Python-based proof of concept designed to automate verbal compliance tracking 
 **[Ghosthouse Homelab](https://github.com/gHostJ23/Ghosthouse)**
 My personal server infrastructure project. I use this environment to gain hands-on experience with systems administration, managing custom network routing, documenting professionally and consistently, and deploying isolated Docker containers within Proxmox VE. 
 
+**[IN PROGRESS: Nand2Tetris](https://github.com/gHostJ23/nand2tetris)**
+Currently working to complete the Nand2Tetris project to solidify my understanding of building a complete 16-bit computer system from the ground up, starting with elementary logic gates in HDL and progressing through CPU design, an assembler, and a high-level OS. I’m using this to build a strong, first-principles foundation in digital logic and low-level computer architecture.
+
 ## Technical Expertise
 
 * **Software Engineering:** Python, Java, Object-Oriented Programming (OOP), Git, Data Structures & Algorithms
